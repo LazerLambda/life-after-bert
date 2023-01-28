@@ -1,6 +1,6 @@
 datasets==2.0.0
 numpy
 tokenizers==0.11.6
-torch==1.10
+torch
 tqdm==4.63.0
 transformers==4.17.0
