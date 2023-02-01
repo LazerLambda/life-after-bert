@@ -1,6 +1,6 @@
-datasets==2.0.0
+datasets
 numpy
-tokenizers==0.11.6
+tokenizers
 torch
-tqdm==4.63.0
-transformers==4.17.0
+tqdm
+transformers
